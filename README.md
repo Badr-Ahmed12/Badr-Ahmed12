@@ -18,7 +18,7 @@ I’m a Frontend Developer passionate about building interactive and high-perfor
 
 ## Connect with Me
 
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 📧 Email: [youremail@example.com](isob83709@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com)
 
