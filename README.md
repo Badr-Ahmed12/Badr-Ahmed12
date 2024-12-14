@@ -18,7 +18,7 @@ I’m a Frontend Developer passionate about building interactive and high-perfor
 
 ## Connect with Me
 
-- 📧 Email: (isob83709@gmail.com)
+- 📧 Email: [My-email](isob83709@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/badr-iso-872541338/)
 - 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com)
 
