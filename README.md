@@ -18,20 +18,17 @@ I’m a Frontend Developer passionate about building interactive and high-perfor
 
 ## 🛠️ Technologies I Use
 
-#### Languages
-- JavaScript
-- HTML
-- CSS
-
-#### Libraries and Frameworks
-- React
-- Tailwind CSS
-- Redux
-
-#### Other Tools
-- Git
-- GitHub
-- Node.js
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
 ---
 
@@ -45,9 +42,9 @@ I’m a Frontend Developer passionate about building interactive and high-perfor
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:isob83709@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/badr-iso-872541338/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"></a>
+  <a href="mailto:isob83709@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/badr-iso-872541338/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"></a>
 </p>
 
 ---
@@ -56,11 +53,7 @@ I’m a Frontend Developer passionate about building interactive and high-perfor
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Badr-Ahmed12&show_icons=true&theme=radical" alt="Badr Ahmed's GitHub stats"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badr-Ahmed12&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-<p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Badr-Ahmed12&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
