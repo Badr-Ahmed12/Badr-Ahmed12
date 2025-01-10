@@ -40,7 +40,7 @@ I’m a Frontend Developer passionate about building interactive and high-perfor
 
 <p align="center">
   <a href="mailto:isob83709@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="[https://www.linkedin.com/in/badr-iso-872541338/](https://www.linkedin.com/in/badr-ahmed-872541338/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/badr-iso-872541338/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"></a>
 </p>
 
