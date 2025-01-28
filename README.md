@@ -23,7 +23,7 @@ Hi! I'm **Badr Ahmed**, a passionate **Frontend Developer** focused on creating 
 ## 🛠️ My Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,graphql,firebase,git,github,vscode,figma&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,graphql,python,firebase,git,github,vscode,figma&perline=8" alt="Tech Stack"/>
 </p>
 
 ### 🔧 Additional Tools:
