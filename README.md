@@ -8,15 +8,15 @@
 
 ## 🌟 About Me  
 
-Hi! I'm **Badr Ahmed**, a passionate **Frontend Developer** focused on creating sleek, **user-centric** web applications. With a strong foundation in **UI/UX design** and the latest web technologies, I aim to build innovative, high-performance websites and apps that users love.
+Hi! I'm **Badr Ahmed**, a passionate **Frontend Developer** focused on creating sleek, user-friendly web applications. With expertise in **React.js, Next.js, and UI/UX design**, I aim to craft seamless digital experiences that are both visually stunning and high-performing.
 
-### 🚀 My Journey So Far:
-- 🔥 **Currently Exploring**:  
-  - **React Native**: Expanding into mobile development for cross-platform solutions.  
-  - **AI Integration**: Building intelligent applications with APIs like OpenAI.  
-  - **Web 3.0**: Diving into decentralized apps and blockchain technologies.  
-- 🌟 **Vision**: Creating impactful digital experiences that shape the future of the web.  
-- 🤝 **Open Source Advocate**: Actively contributing to projects that make a real difference in the dev community.
+### 🚀 What I'm Exploring:
+- 📱 **React Native** → Expanding into mobile app development.
+- 🤖 **AI & Web 3.0** → Integrating OpenAI APIs & blockchain tech.
+- 💡 **Performance & Accessibility** → Building faster, more inclusive web experiences.
+
+### 🎯 Vision:  
+Creating impactful, scalable digital experiences that push the boundaries of modern web development.
 
 ---
 
@@ -27,10 +27,10 @@ Hi! I'm **Badr Ahmed**, a passionate **Frontend Developer** focused on creating 
 </p>
 
 ### 🔧 Additional Tools:
-- **Animations**: Lottie, Framer Motion  
-- **Testing**: Jest, React Testing Library  
-- **Backend**: Express.js, MongoDB  
-- **Mobile Development**: React Native, Expo  
+- 🎨 **Animations** → Lottie, Framer Motion  
+- 🛠️ **Testing** → Jest, React Testing Library  
+- 💾 **Backend** → Express.js, MongoDB  
+- 📱 **Mobile** → React Native, Expo  
 
 ---
 
@@ -38,32 +38,32 @@ Hi! I'm **Badr Ahmed**, a passionate **Frontend Developer** focused on creating 
 
 ### 🧠 [BrainWave - AI Chatbot Landing Page](https://wavebrain.vercel.app/)  
 🚀 **Tech Stack**: React.js, Tailwind CSS  
-- A modern, interactive landing page designed for an AI-powered chatbot.  
-- 🎨 Features: Smooth animations, scrolling effects, and a focus on user experience.  
+- A sleek landing page for an AI-powered chatbot.  
+- 🎨 Smooth animations, modern design & interactive UI.  
 - 📂 [View Code](https://github.com/Badr-Ahmed12/Wavebrain.git)
 
 ---
 
 ### 📘 [E-Book Store (In Progress)]  
 🌟 **Tech Stack**: Next.js, Tailwind CSS, TypeScript, Shadcn  
-- A dynamic e-commerce platform for buying and selling e-books.  
-- Features: Category filtering, secure authentication, and a responsive UI.  
-- 🚀 **Coming Soon**: Advanced search and AI-powered recommendations.
+- A dynamic e-commerce platform for e-books.  
+- 🔍 Advanced search, category filtering & secure authentication.  
+- 🚀 AI-powered recommendations (coming soon).
 
 ---
 
 ### 🖼️ [Portfolio Website (Coming Soon)]  
 **Tech Stack**: React.js, Tailwind CSS, GSAP  
-- A dynamic portfolio showcasing my work with smooth transitions, dark/light mode, and interactive components.  
-- 🚀 **Stay Tuned for Updates!**
+- Interactive portfolio with smooth transitions & dark mode.  
+- 🚀 Stay tuned for updates!
 
 ---
 
 ## 🎯 2025 Goals  
-- **Master Mobile Development**: Build scalable cross-platform apps with **React Native**.  
-- **Dive into Web 3.0**: Develop decentralized apps (dApps) and integrate blockchain features.  
-- **AI-Enhanced Solutions**: Leverage AI for smarter web experiences.  
-- **Give Back**: Contribute to open-source projects and empower fellow developers.
+- 🚀 **Master Mobile Development** → Build cross-platform apps with **React Native**.  
+- 🌍 **Explore Web 3.0** → Develop **decentralized apps (dApps)**.  
+- 🤖 **Enhance AI Skills** → Integrate smart web experiences.  
+- 🎁 **Give Back** → Contribute to **open-source** & mentor developers.
 
 ---
 
@@ -73,7 +73,6 @@ Hi! I'm **Badr Ahmed**, a passionate **Frontend Developer** focused on creating 
   <img src="https://github-readme-stats.vercel.app/api?username=Badr-Ahmed12&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badr-Ahmed12&theme=tokyonight" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badr-Ahmed12&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Badr-Ahmed12&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
